@@ -12,7 +12,6 @@ device = st.selectbox(
     ["Smart Light Bulb", "Fan", "Refrigerator"]
 )
 
-
 power_options = {
     "Smart Light Bulb": [5, 9, 10, 15],
     "Fan": [50, 60, 75, 90],
