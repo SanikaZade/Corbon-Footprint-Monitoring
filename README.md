@@ -13,6 +13,8 @@ Tech Stack
 Python
 Streamlit
 
+Live project = https://corbon-footprint-monitoring.streamlit.app/ 
+
 Run the App
 Navigate to the project folder and run:
 streamlit run app.py
